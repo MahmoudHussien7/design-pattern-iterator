@@ -1,5 +1,3 @@
-// src/utils/rangeGenerator.ts
-
 export function* rangeGenerator(
   start: number,
   end: number,
